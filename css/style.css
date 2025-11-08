@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    padding: 5px;
+}
+
+li{
+    justify-self:center;
+}
+
+hr{
+    width: 25%;
+}
+
+#outcome{
+    border:2px solid rgb(204, 69, 204);
+    background-color: rgb(255, 210, 252);
+    justify-self:center;
+    padding: 20px;
+    font-size: medium;
+}
+
